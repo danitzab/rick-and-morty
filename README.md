@@ -1,6 +1,6 @@
 # Rick and Morty
 
-An application deployed in ** Vercel ** that allows you to see the characters ([https://prueba-peach.vercel.app//](https://prueba-peach.vercel.app/))
+An application deployed in ** Vercel ** that allows you to see the characters ([https://rick-and-morty-smoky.vercel.app/](https://rick-and-morty-smoky.vercel.app/))
 
 ## Technologies Used
 
